@@ -1,0 +1,17 @@
+
+.menu{
+  
+}
+
+.menu__list{
+  display: none;
+  @include list-style-reset;
+}
+
+.menu__link--afghan-cauldrons{
+  display: none;
+}
+
+.menu__link--reviews{
+  display: block;
+}

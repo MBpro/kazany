@@ -1,0 +1,19 @@
+.info-shop{
+    display: none;
+
+    &--phone{
+        display: block;
+    }
+
+    &--address{
+        display: block;
+    }
+}
+
+.info-shop__text--address span{
+    display: none;
+}
+
+.info-shop__text--address br{
+    display: none;
+}
